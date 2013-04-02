@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>zngurj.wnzrf.unyy@tbbtyrznvy.pbz</string>
+	<key>contactName</key>
+	<string>Mathew Hall</string>
+	<key>description</key>
+	<string>Disassembly created with GNU &lt;a href="http://sourceware.org/binutils/docs/binutils/objdump.html"&gt;objdump&lt;/a&gt; (part of binutils).
+
+Based on the MIPS Assembler plugin.</string>
+	<key>name</key>
+	<string>Objdump disassembly</string>
+	<key>uuid</key>
+	<string>A9015454-19D6-4239-8AAA-BC03DC5CEC51</string>
+</dict>
+</plist>
